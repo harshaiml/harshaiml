@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Harsh Vardhan
 
-<!--
-**harshaiml/harshaiml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI/ML Engineer 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌱 Currently learning Machine Learning & Data Science
+- 🐍 Working with Python, NumPy, Pandas & Matplotlib
+- 📚 Building projects and practicing daily
+- 🚀 Sharing my AI/ML learning journey on GitHub & LinkedIn
+
+---
+
+## 🛠️ Skills
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Data Visualization
+- Machine Learning Basics
+- Git & GitHub
+
+---
+
+## 📌 Featured Repository
+
+🔹 AIML-Prime  
+My complete AI/ML learning repository containing:
+- Python & Data
+- Math for AI
+- Machine Learning Practice
+- Assignments & Projects
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/harsh-vardhan-kushwaha-aiml/
+- GitHub: https://github.com/harshaiml
+
+---
+
+⭐ Consistently learning and building in AI/ML
