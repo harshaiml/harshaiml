@@ -19,7 +19,9 @@
 - NumPy
 - Pandas
 - Matplotlib
-- Data Visualization
+- Seaborn
+- Data Visualizatio
+- Skelarn
 - Machine Learning Basics
 - Git & GitHub
 
