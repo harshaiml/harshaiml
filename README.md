@@ -29,9 +29,9 @@
 
 | Project | Description |
 |---------|-------------|
-| 📊 [Superstore Sales EDA](https://github.com/harshaiml/superstore-sales-eda-analysis) | Exploratory Data Analysis on retail sales data using Python, Pandas & Seaborn to uncover business insights on profitability and discounts |
-| 🌸 [Iris Flower Classification](https://github.com/harshaiml/iris-flower-classification-ml) | Built and compared Logistic Regression, Naive Bayes & KNN models with hyperparameter tuning using GridSearchCV |
-| 🌐 [Front-End Mini Projects](https://github.com/harshaiml/front-end-mini-projects) | Three responsive web pages (Portfolio, Landing Page, Card Layout) built using HTML & CSS |
+| [Superstore Sales EDA](https://github.com/harshaiml/superstore-sales-eda-analysis) | Exploratory Data Analysis on retail sales data using Python, Pandas & Seaborn to uncover business insights on profitability and discounts |
+| [Iris Flower Classification](https://github.com/harshaiml/iris-flower-classification-ml) | Built and compared Logistic Regression, Naive Bayes & KNN models with hyperparameter tuning using GridSearchCV |
+| [Front-End Mini Projects](https://github.com/harshaiml/front-end-mini-projects) | Three responsive web pages (Portfolio, Landing Page, Card Layout) built using HTML & CSS |
 
 ---
 
