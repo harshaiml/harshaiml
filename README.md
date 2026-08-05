@@ -21,7 +21,7 @@
 **Machine Learning:** Scikit-learn, Classification Models, Model Evaluation
 **Visualization:** Matplotlib, Seaborn
 **Web Fundamentals:** HTML, CSS
-**Tools:** Git, GitHub, Google Workspace
+**Tools:** Git, GitHub, Google Workspace, Excel
 
 ---
 
